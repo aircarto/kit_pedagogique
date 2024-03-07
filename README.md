@@ -1,1 +1,4 @@
 # kit_pedagogique
+![kit](https://aircarto.fr/kit_pedagogique/tuto/img/kit_pedagogique_carre.jpg)
+
+AirCarto anime de nombreux ateliers de découverte de la mesure de la qualité de l'air à l'aide de kit pédagogiques imaginés spécialement pour l'occasion. Nous vous proposons ici de fabriquer vous même votre capteur pour mesurer la qualité de l'air. Ce kit pédagogique vous invite à découvrir les bases de l'électronique et de la mesure des particules fines à l'aide d'une carte à microcontrôleur Arduino UNO et une sonde SDS011. Le kit est équipé d'une batterie pour alimenter les différents composants ainsi qu'un écran pour visualiser les données. Les connexions se fond à l'aide de petits câbles Dupont. Ce kit est un excellent outil pédagogique qui a fait ses preuves lors d'intervention auprès des élèves dans les écoles, auprès du grand public lors d'évènements type Fete de la Science et même auprès de professionnels de la qualité de l'air.
